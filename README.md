@@ -1,7 +1,7 @@
 # AutoMono
 Programming font derived from Roboto Mono (with a hint of Monaco, SF Mono, Gotham &amp; Futura).
 
-Currently in Medium weight only.
+Medium weight recommended (additional styles done automatically).
 
 ![AutoMono](https://github.com/0matgal0/AutoMono/raw/master/AutoMono.png)
 
